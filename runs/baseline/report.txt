@@ -1,0 +1,14 @@
+Experiment: baseline
+Test accuracy: 0.9367
+Test loss: 0.1655
+
+                           precision    recall  f1-score   support
+
+       Tomato_Late_blight       0.97      0.98      0.97        96
+         Tomato_Leaf_Mold       1.00      0.72      0.84        50
+Tomato_Septoria_leaf_spot       0.87      0.96      0.92        79
+           Tomato_healthy       0.94      1.00      0.97        75
+
+                 accuracy                           0.94       300
+                macro avg       0.95      0.92      0.92       300
+             weighted avg       0.94      0.94      0.93       300

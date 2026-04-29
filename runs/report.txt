@@ -1,0 +1,10 @@
+                           precision    recall  f1-score   support
+
+       Tomato_Late_blight       0.99      1.00      0.99       299
+         Tomato_Leaf_Mold       0.99      0.99      0.99       162
+Tomato_Septoria_leaf_spot       1.00      1.00      1.00       284
+           Tomato_healthy       1.00      1.00      1.00       255
+
+                 accuracy                           1.00      1000
+                macro avg       1.00      1.00      1.00      1000
+             weighted avg       1.00      1.00      1.00      1000
